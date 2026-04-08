@@ -10,4 +10,4 @@ This is a simple C++ console application creeated for Git Lab 1
 
 ## Team Members
 - Landon Baeder
-- 
+- Kaitlyn Thornton
