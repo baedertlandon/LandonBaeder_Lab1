@@ -8,4 +8,6 @@ int main()
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Kaitlyn Thornton!" << endl;
     cout << "Feature by Landon: Branching is awesome!" << endl;
+
+    cout << "Student ID: 12345 | Name: Landon" << endl;
 }
