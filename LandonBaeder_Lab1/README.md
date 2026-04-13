@@ -14,6 +14,3 @@ This is a simple C++ console application creeated for Git Lab 1
 
 ## Changes Made by Landon
 Add feature greeting
-
-## Team Members
-- Landon Baeder - Feature: student info display
