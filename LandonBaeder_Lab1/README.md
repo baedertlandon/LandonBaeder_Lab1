@@ -14,3 +14,7 @@ This is a simple C++ console application creeated for Git Lab 1
 
 ## Changes Made by Landon
 Add feature greeting
+
+## Pass-Fail-Check
+-Landon Baeder
+-Checks to see if inputed grade is above a 70 to deccide if they pass or fail
